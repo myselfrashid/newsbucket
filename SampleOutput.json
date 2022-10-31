@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Who is Salman Rushdie? The writer who emerged from hiding",
+      "description": "The novelist received death threats following the publication of his 1988 book The Satanic Verses.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-62523259",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4771/production/_126298281_gettyimages-1193231930.jpg",
+      "publishedAt": "2022-08-12T17:07:21.3652706Z",
+      "content": "Indian-born novelist Sir Salman Rushdie, who has been stabbed while on stage in New York, has received death threats due to his work over a five-decade literary career.\r\nMany of the 75-year-old's boo… [+5542 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Salman Rushdie treated on stage after attack",
+      "description": "Pictures show the novelist being treated after an assailant reportedly stabbed or punched him at a university in New York state.",
+      "url": "http://www.bbc.co.uk/news/live/uk-62524833",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2022-08-12T15:37:26.8972343Z",
+      "content": "British-American novelist Salman Rushdie, whose writing led to death threats from\r\nIran in the 1980s, has been attacked on stage at an event in New\r\nYork, the Associated Press news agency reports.\r\nR… [+202 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Salman Rushdie attacked on stage in New York",
+      "description": "Author Salman Rushdie, who suffered years of death threats after writing The Satanic Verses, attacked on stage in New York state.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62524922",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2022-08-12T15:22:22.6784384Z",
+      "content": "Author Salman Rushdie, who suffered years of death threats after writing The Satanic Verses, has been attacked on stage in New York state.\r\nThe former Booker Prize winner was speaking at an event of … [+501 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Anne Heche: US actress not expected to survive, says family",
+      "description": "Her family says she suffered a severe brain injury when her car crashed into a house.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-62515457",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/158A1/production/_126252288_hi077894462.jpg",
+      "publishedAt": "2022-08-12T14:07:20.2870059Z",
+      "content": "US actress Anne Heche is not expected to survive, her family has said, after a car crash earlier this week that left her vehicle engulfed in flames.\r\nShe remains in a coma and had \"a severe anoxic br… [+1905 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "In pictures: Stunning Sturgeon Moon lights up the skies",
+      "description": "Photographers around the globe capture the final supermoon of the year.",
+      "url": "http://www.bbc.co.uk/news/in-pictures-62518102",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8B9B/production/_126293753_gettyimages-1242443942.jpg",
+      "publishedAt": "2022-08-12T13:22:22.1313882Z",
+      "content": "People around the world have been enjoying the fourth and final supermoon of 2022.\r\nKnown as the Sturgeon Moon, it was at its closest point to Earth at 02:36 BST on Friday.\r\nPhotographers captured th… [+1866 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Drought hits Germany's Rhine River: 'We have 30cm of water left'",
+      "description": "There are fears water levels could dip to the lowest ever recorded on the key German shipping route.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62519683",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A68D/production/_126273624_fa2eaa76-4fb3-426e-9d71-dbcece17eab2.jpg",
+      "publishedAt": "2022-08-12T13:07:20.4371951Z",
+      "content": "By Jenny HillBBC News, Rhineland-Palatinate\r\nCaptain Andre Kimpel casts an experienced, but worried, eye across the river Rhine, where water levels have dropped significantly in recent days. \r\nSevera… [+3838 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Bear high on 'mad honey' rescued by rangers",
+      "description": "The animal was found incapacitated after consuming hallucinogenic rhododendron plants.",
+      "url": "http://www.bbc.co.uk/news/world-62519493",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/97A3/production/_126291883_p0csp6r3.jpg",
+      "publishedAt": "2022-08-12T10:37:18.4589008Z",
+      "content": "A brown bear cub has been rescued by rangers at a national park in Turkey, after it consumed a hallucinogenic plant. \r\nMad honey, or deli bal in Turkish, is a type of rhododendron honey.\r\nFootage sho… [+64 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Zaporizhzhia nuclear workers: We're kept at gunpoint by Russians",
+      "description": "\"Soldiers are everywhere,\" says one worker at Zaporizhzhia. \"Everyone is kept at gunpoint.\"",
+      "url": "http://www.bbc.co.uk/news/world-europe-62509638",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1B38/production/_126286960_mediaitem126286959.jpg",
+      "publishedAt": "2022-08-12T04:07:22.1470529Z",
+      "content": "By James WaterhouseBBC News, in Kyiv\r\nStaff at the occupied Zaporizhzhia nuclear power plant have described to the BBC being kept at gunpoint while Russian troops use it as a military base. \r\nInvadin… [+5754 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Armed man shot dead after trying to 'breach' Ohio FBI office",
+      "description": "The suspect fled the scene in Cincinnati and was gunned down after an hours-long standoff.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62514752",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A08A/production/_126289014_33e312f3-cedb-4e59-9c72-1ccab5c400c1-lfbithreat.transfer_frame_2109.jpg",
+      "publishedAt": "2022-08-12T00:07:24.3022007Z",
+      "content": "An armed man clad in body armour was killed after he tried to \"breach\" an FBI building in Ohio, officials say.\r\nThe suspect fled the scene in Cincinnati and was shot by police after an hours-long sta… [+991 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Donald Trump: Justice Department seeks to unseal Mar-a-Lago search warrant",
+      "description": "The FBI searched Mr Trump's Florida home on Monday - the unsealed warrant could reveal why.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62512360",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A274/production/_126288514_5a3ee174caf3cbd583ceae3b75740cbd638fa600.jpg",
+      "publishedAt": "2022-08-11T21:52:17.7553986Z",
+      "content": "By Leo SandsBBC News\r\nMedia caption, US attorney general: I personally approved Mar-a-Lago search warrant\r\nThe US Justice Department is asking a Florida court to unseal the warrant that let FBI agent… [+3916 chars]"
+    }
+  ]
+}
